@@ -1,18 +1,19 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Stably",
   "logo": {
     "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "light": "/logo/light.svg",
+    "href": "https://stably.ai"
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#599c02",
+    "light": "#a9db2c",
+    "dark": "#407001",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#599c02",
+      "to": "#a9db2c"
     }
   },
   "topbarLinks": [
